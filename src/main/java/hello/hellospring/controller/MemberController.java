@@ -40,3 +40,5 @@ public class MemberController {
         return "members/memberList";
     }
 }
+
+//memberController only
